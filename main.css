@@ -21,7 +21,7 @@ header {
     color: #843951;
 }
 header h1 {
-    font-size: 100px;
+    font-size: 50px;
 }
 
 nav li {
@@ -68,9 +68,7 @@ section p {
     margin-right: 32px;
 }
 .container img {
-    height: 400px;
-    border-radius: 5px;
-    box-shadow: 2px 2px 4px  rgba(67, 65, 65, 0.241);
+    height: 600px;
 }
 .social-links img {
     height: 30px;
@@ -109,17 +107,14 @@ section h3 {
 }
 form button {
     background-color: #843951;
-    color: white;
+    color: #0c0c0c;
     font-size: 18px;
     border: none;
     cursor: pointer;
 }
 form button:hover {
     background-color: #FFE3BD;
-    color: rgb(53, 54, 54);
 }
-
-
 input:focus, textarea:focus {
     outline-color: #843951;
 }
